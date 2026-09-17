@@ -1,4 +1,4 @@
-# Category Knowledge Brief — [Boom]
+# Category Knowledge Brief — [Boom Lifts]
 
 - **Vertical:** [**Hire/Bulk**]
 - **Category / Sub-category:** [e.g. POWERED ACCESS / Boom Lifts]
