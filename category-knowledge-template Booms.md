@@ -37,6 +37,16 @@ State the rule in the SIZE + WHAT IT IS + SPECS format (or whatever variant appl
 - `BOOM LIFT 12M DSL` → `BOOM 12M DIESEL ARTICULATED`
 - `TOWABLE 12M ELECTRIC ARTIC BOOM` → `BOOM 12M ELECTRIC ARTICULATED TOWABLE`
 
+**Naming Validation Checklist**
+- Product type included 
+- Size included
+- Power source included
+- Boom type included  
+- Key differentiator included
+- Abbreviations removed
+- Manufacturer/supplier name removed where necessary
+
+
 ## 4. Typical attributes / spec bands
 
 Attributes that should be consistently captured for products in this category (from manufacturer spec sheets or existing data).
