@@ -1,10 +1,10 @@
 # Category Knowledge Brief — [Boom]
 
-**Vertical:** [**Hire/Bulk**]
-**Category / Sub-category:** [e.g. POWERED ACCESS / Boom Lifts]
-**Date reviewed:** [17/09/2026]
-**Reviewed by:** [Martin Richmond]
-**Status:** [**In Review **]
+- **Vertical:** [**Hire/Bulk**]
+- **Category / Sub-category:** [e.g. POWERED ACCESS / Boom Lifts]
+- **Date reviewed:** [17/09/2026]
+- **Reviewed by:** [Martin Richmond]
+- **Status:** [**In Review **]
 
 ---
 
