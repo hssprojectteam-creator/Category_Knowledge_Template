@@ -31,7 +31,7 @@
 - `8M SCISSOR 1932` → `SCISSOR 8M BATTERY`
 - `SJ3220 SCISSOR` → `SCISSOR 8M BATTERY NARROW`
 
-**Width Definitiona**
+**Width Definitions**
 | Category | Imperial | Metric | Access Capabilities |
 |---|---|---|---|
 | Micro / Compact | up to 30" | up to 0.76m | Clears standard single doors with ease. |
