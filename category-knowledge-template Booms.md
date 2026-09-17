@@ -1,10 +1,10 @@
 # Category Knowledge Brief — [Boom]
 
-**Vertical:** [**Hire/Bulk** | ~~Hire Accessories~~ | ~~EQ Consumables~~ |~~ BM Consumables~~]
+**Vertical:** [**Hire/Bulk**]
 **Category / Sub-category:** [e.g. POWERED ACCESS / Boom Lifts]
 **Date reviewed:** [17/09/2026]
 **Reviewed by:** [Martin Richmond]
-**Status:** [~~Scoping ~~/ **In Review **/ ~~Signed Off~~]
+**Status:** [**In Review **]
 
 ---
 
@@ -18,8 +18,10 @@ What genuinely belongs in this category? One or two plain-English sentences.
 
 Common stray items or mis-categorisations found during review (e.g. items that should live in a different category/sub-category).
 
-- "Mast Booms, Push Arounds, AWP's, Scissor Lifts, Spider Booms, Truck or Van mounted Booms"
-- 
+- "Mast Booms, Push Arounds or AWP's"
+- "Scissor Lifts"
+- "Spider Booms"
+- "Truck or Van Mounted Booms"
 
 ## 3. Naming convention for this category
 
