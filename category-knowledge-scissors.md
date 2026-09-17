@@ -21,15 +21,22 @@
 
 ## 3. Naming convention — description
 
-**Rule:** `TYPE + WORKING HEIGHT + POWER SOURCE + ARM TYPE + SPECIAL FEATURE (Not Mandatory)`
+**Rule:** `TYPE + WORKING HEIGHT + POWER SOURCE + SPECIAL FEATURE (Not Mandatory)`
 
 **Good examples:**
-- `BOOM 12M HYBRID ARTICULATED NARROW`
-- `BOOM 23M DIESEL TELESCOPIC TRACKED`
+- `SCISSOR 8M BATTERY NARROW AISLE`
+- `SCISSOR 12M DIESEL ROUGH TERRAIN`
 
 **Bad examples (before cleanse) → Fixed:**
-- `BOOM LIFT 12M DSL` → `BOOM 12M DIESEL ARTICULATED`
-- `TOWABLE 12M ELECTRIC ARTIC BOOM` → `BOOM 12M ELECTRIC ARTICULATED TOWABLE`
+- `8M SCISSOR 1932` → `SCISSOR 8M BATTERY`
+- `SJ3220 SCISSOR` → `SCISSOR 8M BATTERY NARROW`
+
+**Width Definitiona**
+| Category | Imperial | Metric | Access Capabilities |
+|---|---|---|---|
+| Micro / Compact | up to 30" | up to 0.76m | Clears standard single doors with ease. |
+| Narrow Aisle| 32" to 34" | 0.81m to 0.85m | Fits between warehouse racking, and through double doors. |
+| Normal / Standard | 46" and above | 1.17m and above | Requires double doors or open space |
 
 **Naming Validation Checklist**
 - Product type included
