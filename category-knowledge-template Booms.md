@@ -41,18 +41,32 @@ State the rule in the SIZE + WHAT IT IS + SPECS format (or whatever variant appl
 
 Attributes that should be consistently captured for products in this category (from manufacturer spec sheets or existing data).
 
-| Attribute | Typical range / values | Notes |
-|---|---|---|
-| e.g. Working height | 10m–18m | Common size bands used across market |
-| | | |
-
+| Attribute | Mandatory | Typical range / values | Notes |
+|---|---|---|---|
+| Working height | Yes | 10m–82m | Common size bands used across market |
+| Platform height| Yes | 8m-80m  | Typically 2m lower than working height|
+| Power Type| Yes | Diesel / Electric / Battery / Hybrid / Hydrogen| Hybrid would typically be Battery and then a power source that could be Diesel Electic or Hydrogen
+| Boom Type| Yes |Articulated or Telescopic | If machine is both then class as the predominent feature (usually Telescopic) |
+| Special Feature | No | Tracked, Narrow, Towable, Negative Reach, 4 Wheel Drive, Rough Terrain | Any feature that can be used to differentiate two machines with the same specifications
 ## 5. Known traps / history
 
 Anything that's bitten a previous cleanse pass, or is easy to get wrong (naming swaps, near-duplicate sub-categories, etc.)
 
 - 
 
-## 6. Reference sources checked
+## 6. Approved Reference sources
+
+Use sources in this priority order.
+| Priority | Source | Purpose |
+|----------|---------|---------|
+| 1 | Manufacturer Specification Sheet | Primary data |
+| 2 | Supplier Product Catalogue | Secondary validation |
+| 3 | HSS Website | Market comparison |
+| 4 | Competitor Website | Benchmarking |
+
+
+
+
 
 Where naming/spec info was cross-checked (competitor site, manufacturer sheet, HSS.com listing, etc.)
 
